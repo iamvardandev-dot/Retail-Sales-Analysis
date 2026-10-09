@@ -8,6 +8,16 @@ The goal of this project is to analyse retail transaction data and understand ho
 
 The project follows a practical analytics workflow: exploring the raw dataset, querying and aggregating data with SQL, performing analysis in Python, and building an interactive Power BI report to communicate the results.
 
+## Dashboard Preview
+
+### KPI Cards
+
+![KPI Cards Dashboard](KPI_Analysis.png)
+
+### Sales & Profit Dashboard
+
+![Sales and Profit Dashboard](Sales-Profit-Dashboard_Analysis.png)
+
 ## Business Questions
 
 - What are the total sales, profit, and overall profit margin?
